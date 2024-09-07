@@ -305,7 +305,7 @@ function TapHome() {
                   <img
                     onPointerDown={handleClick}
                     ref={imageRef}
-                    src={tapmecoin}
+                    src='https://www.google.com/imgres?q=tapswap%20icon%20png&imgurl=https%3A%2F%2Fpricenews.pk%2Fwp-content%2Fuploads%2F2024%2F07%2FGold-Luxury-Initial-Circle-Logo-2.png&imgrefurl=https%3A%2F%2Fpricenews.pk%2Ftapswap-coin-price%2F&docid=UmIt5tF0ZAnL-M&tbnid=KD5UyR48c88QBM&vet=12ahUKEwiw14PvnLCIAxVBhv0HHXcSBn4QM3oECFoQAA..i&w=500&h=500&hcb=2&ved=2ahUKEwiw14PvnLCIAxVBhv0HHXcSBn4QM3oECFoQAA'
                     alt="Wobble"
                     className="wobble-image select-none"
                   />

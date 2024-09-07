@@ -1,5 +1,5 @@
 const { Telegraf } = require("telegraf");
-const TOKEN = process.env.BOT_TOKEN;
+const TOKEN = "7513856284:AAF3ECl8NYJjCNUb4kGfa-1rZ3AL8fxcRFk";
 const bot = new Telegraf(TOKEN);
 
 const web_link = process.env.WEB_LINK;
